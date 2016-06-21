@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 bootcamp/
 data/2012-election.csv
+*.zip
+.DS_Store
