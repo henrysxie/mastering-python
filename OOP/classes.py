@@ -33,7 +33,13 @@ class Animal(object):
         print "Grr"
 
 
-class Dog(Animal):
+class EatMixin(object):
+
+    def eat(self):
+        print "Om nom nom"
+
+
+class Dog(Animal, EatMixin):
 
     trait = "friendly"
 

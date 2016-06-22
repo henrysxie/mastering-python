@@ -9,3 +9,6 @@ Assume the following:
 - Cost of the lemons is your only expense
 - Your selling each lemonade for $5
 - When prompted, the user will input valid integer values
+
+Extra Credit:
+- Show error message if inputs are not valid integers
