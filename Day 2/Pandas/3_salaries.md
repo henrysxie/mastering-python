@@ -1,6 +1,6 @@
 1. Read in the `chicago-salaries.csv` dataset.
 
-2. What does our data look like?=
+2. What does our data look like?
    Inspect its structure using `head()`
 
 3. How can we make salary a numerical value?
